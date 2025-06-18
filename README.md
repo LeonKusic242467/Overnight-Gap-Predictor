@@ -4,9 +4,11 @@ This Streamlit app predicts the **NASDAQ opening gap direction** (Up / Down / Fl
 
 It is containerized with Docker for easy, platform-independent deployment.
 
+It is also published on Streamlit Cloud [here](https://overnight-gap-predictor.streamlit.app/)
+
 ---
 
-## How to Run
+## How to Run Locally
 
 ### 1. Build the Docker image
 
